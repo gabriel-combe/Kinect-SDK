@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/Kinect-SDK"><img src="https://cdn1.tekrevue.com/wp-content/uploads/2013/08/20130813_xboxonekinect.jpg" width="180"></a>
+  <a href="https://github.com/Kinect-SDK"><img src="https://images5.alphacoders.com/656/thumb-1920-656468.jpg" width="180"></a>
 </h1>
 
 <h1 align="center">Run Kinect Xbox 360 on unity
